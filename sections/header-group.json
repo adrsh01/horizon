@@ -13,37 +13,6 @@
   "sections": {
     "1763989022eeb7ad62": {
       "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_809172e_4pqDjM": {
-          "type": "ai_gen_block_809172e",
-          "settings": {
-            "item_1": "Free Shipping",
-            "item_2": "Easy Returns",
-            "item_3": "24/7 Support",
-            "item_4": "Secure Checkout",
-            "item_5": "",
-            "item_6": "",
-            "show_icon": false,
-            "icon_type": "star",
-            "icon_size": 16,
-            "icon_color": "#000000",
-            "icon_spacing": 8,
-            "background_color": "#000000",
-            "text_color": "#FFFFFF",
-            "font_size": 14,
-            "font_weight": "500",
-            "text_transform": "uppercase",
-            "padding_vertical": 12,
-            "item_spacing": 60,
-            "animation_speed": 30,
-            "pause_on_hover": true
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_809172e_4pqDjM"
-      ],
       "settings": {
         "content_direction": "column",
         "vertical_on_mobile": true,

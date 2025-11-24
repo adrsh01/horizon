@@ -58,7 +58,7 @@
           "name": "t:names.button",
           "settings": {
             "label": "Grab Now!",
-            "link": "shopify://collections/all",
+            "link": "shopify://products/face-care-serum",
             "open_in_new_tab": false,
             "style_class": "button",
             "width": "fit-content",
