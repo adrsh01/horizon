@@ -52,11 +52,27 @@
             "animation_repeat": false
           },
           "blocks": {}
+        },
+        "button_rgDVTe": {
+          "type": "button",
+          "name": "t:names.button",
+          "settings": {
+            "label": "Grab Now!",
+            "link": "shopify://collections/all",
+            "open_in_new_tab": false,
+            "style_class": "button",
+            "width": "fit-content",
+            "custom_width": 100,
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100
+          },
+          "blocks": {}
         }
       },
       "block_order": [
         "text_CXHmij",
-        "jumbo_text_EbVJbB"
+        "jumbo_text_EbVJbB",
+        "button_rgDVTe"
       ],
       "name": "Hero",
       "settings": {
@@ -123,6 +139,21 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "button_JCdJcN": {
+              "type": "button",
+              "name": "t:names.button",
+              "settings": {
+                "label": "Shop now",
+                "link": "shopify://collections/all",
+                "open_in_new_tab": false,
+                "style_class": "button",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            },
             "product_list_text": {
               "type": "_product-list-text",
               "name": "t:names.collection_title",
@@ -165,6 +196,7 @@
             }
           },
           "block_order": [
+            "button_JCdJcN",
             "product_list_text",
             "product_list_button"
           ]
