@@ -325,6 +325,7 @@
                 "image_pYFfxF": {
                   "type": "image",
                   "name": "t:names.image",
+                  "disabled": true,
                   "settings": {
                     "image": "{{ closest.product.metafields.custom.swatch_image.value }}",
                     "link": "",
@@ -376,7 +377,7 @@
       },
       "name": "t:names.products_grid",
       "settings": {
-        "collection": "",
+        "collection": "summer-collection",
         "layout_type": "grid",
         "carousel_on_mobile": false,
         "max_products": 8,
